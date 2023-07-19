@@ -1,0 +1,12 @@
+{
+  "name": "useraccesstoken",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/communication-identity": "^1.2.0"
+  }
+}
